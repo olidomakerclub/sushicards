@@ -13,7 +13,8 @@ Definição e uso
 
 Sistema visual para facilitar o aprendizado de Arduino e componentes. 
 Consiste em um cartão formato A5 contendo um diagrama do hardware à esquerda e instruções do software à direita na parte da frente. Atrás fica a explicação do código à esquerda e os desafios à direita. Abaixo está um box com a lista das funções usadas em destaque.
-Os SushiCards foram pensados para leigos de todas as idades com o intuito de desmistificar o manuseio de componentes eletrônicos. Eles não são um compilado de lições com o objetivo de ensinar eletrônica e nem uma apostila de Arduino!
+
+Os SushiCards foram pensados para leigos de todas as idades com o intuito de desmistificar o manuseio de componentes eletrônicos. Eles NÃO são um compilado de lições com o objetivo de ensinar eletrônica e nem uma apostila de Arduino!
 
 O intuito é ser apenas um “aperitivo”, um “tira-gosto” que qualquer um pode experimentar em poucos minutos.
 
