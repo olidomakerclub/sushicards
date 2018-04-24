@@ -87,7 +87,7 @@ Pode usar componente raro/incomum?
 Pode fazer a ilustração de outro jeito?  
 Pode diminuir o tamanho do Arduino ou componente? 
 Pode usar linguagem técnica?
-Pode fazer outro derivado do original?
+Pode fazer outro derivado do original usando a marca do clube?
 
 Perguntas frequentes com a resposta SIM
 
