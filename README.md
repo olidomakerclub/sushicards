@@ -22,42 +22,48 @@ O termo “Sushi Card” vem do Coder Dojo, uma organização que estimula o ens
 A coleção compreende de
 
 O que é Arduino (Uno, Mega, Nano, Mini, Lilypad)
-O que é Arduino IDE
-Conceitos básicos
-Componentes
-Atuadores
-Sensores
-módulos
-Tabela de Resistores
-Multímetro Digital
-BLINK
-LED com botão
-Potenciômetro
-FADE
-Servo Motor
-Buzzer
-Piezo
-LDR
-IR
-Ultrassom
-Display LCD
-Motor DC
-Acelerômetro e Giroscópio
+O que é Arduino IDE;
+Conceitos básicos;
+Componentes;
+Atuadores;
+Sensores;
+módulos;
+Tabela de Resistores;
+Multímetro Digital;
+BLINK;
+LED com botão;
+Potenciômetro;
+FADE;
+Servo Motor;
+Buzzer;
+Piezo;
+LDR;
+IR;
+Ultrassom;
+Display LCD;
+Motor DC;
+Acelerômetro e Giroscópio;
 
 Observações
 Somente conceitos simples serão demonstrados. Conceitos mais elaborados já não são mais do âmbito dos SushiCards.
 
 Os cards não seguem uma ordem, mas podem ter de 1 a 3 componentes por exercício, incluindo o que tem no desafio.
+
 REGRA 1
 O código tem que ser curto, porque terá de ser digitado.
+
 REGRA 2
 O nome do card é o nome do componente ou ação produzida, não podem haver 2 cards com o mesmo nome.
+
 REGRA 3
 O exercício deve mostrar como conectar o componente no Arduino e a programação mínima para fazê-lo funcionar, incluindo o uso de jumpers, resistores, diodos, transistores, leds, etc, caso necessário. 
+
 REGRA 4
 O diagrama deve conter legenda dos componentes.
+
 REGRA 5
 Nos desafios estão os testes de raciocínio para verificar se a pessoa é capaz de deduzir a lógica do funcionamento do sistema e se consegue modificar e incluir ações mais complexas. 
+
 REGRA 6
 As dicas servem para apresentar novas funções e contêm a explicação de como usá-las. 
 
